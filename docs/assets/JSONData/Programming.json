@@ -1,0 +1,25 @@
+{
+    "Languages": [
+        "devicon-java-plain-wordmark colored",
+        "devicon-python-plain-wordmark colored",
+        "devicon-javascript-plain colored",
+        "devicon-c-plain colored",
+        "devicon-mysql-plain-wordmark colored",
+        "devicon-php-plain colored",
+        "devicon-html5-plain-wordmark colored"
+    ],
+    "Frameworks": [
+        "devicon-angularjs-plain colored",
+        "devicon-bootstrap-plain-wordmark colored"
+    ],
+    "Databases": [
+        "devicon-oracle-original colored"
+    ],
+    "Tools": [
+        "devicon-git-plain-wordmark colored",
+        "devicon-linux-plain",
+        "devicon-visualstudio-plain colored",
+        "devicon-travis-plain colored",
+        "devicon-docker-plain-wordmark colored"
+    ]
+}
