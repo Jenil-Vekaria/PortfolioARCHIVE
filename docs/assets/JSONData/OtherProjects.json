@@ -1,3 +1,98 @@
 {
-    "OtherProjects": []
+    "OtherProjects": [
+        {
+            "ProjectImage": "assets/Pictures/WorktrackApp.png",
+            "ProjectName": "Work Tracking App",
+            "ProjectDate": "August 2019",
+            "ProjectDescription": "Work Tracking Android App which allows you keep track of all your easily. Some functionalities includes such as, work calculator, a calendar to view all you entries, total monthly earning, all paid shifts and etc..",
+            "LanguagesUsed": [
+                "Java",
+                "Android Studio"
+            ],
+            "ProjectLink": "https://github.com/Jenil-Vekaria/WorkTrackingApp"
+        },
+        {
+            "ProjectImage": "assets/Pictures/VapeSafe.png",
+            "ProjectName": "VafeSafe: EngHack",
+            "ProjectDate": "July 2019",
+            "ProjectDescription": "VapeSafe is an Arduino-Android project that keeps track of daily vape usage and limits the user once they reached their daily limit. The recommended daily limit is calculated using information regarding the user's height, weight, and daily smoking habits. Usage statistics are also available to be viewed in the app to keep track of progress.",
+            "LanguagesUsed": [
+                "C Programming",
+                "Arduino"
+            ],
+            "ProjectLink": "https://github.com/leviaviv28/VapeSafe-EngHack2019"
+        },
+        {
+            "ProjectImage": "assets/Pictures/HomeAutomation.png",
+            "ProjectName": "Home Automation: MakeUofT",
+            "ProjectDate": "February 2019",
+            "ProjectDescription": "Home automation that allows you to control over elements such as door, lightings and fan via voice control through your smartphone and Bluetooth. This was build using Arduino, and programmed widi chip(Proton) that would allow us to upload data to the web for analytical purposes.",
+            "LanguagesUsed": [
+                "C Programming",
+                "Arduino",
+                "Proton"
+            ],
+            "ProjectLink": "https://github.com/Jenil-Vekaria"
+        },
+        {
+            "ProjectImage": "assets/Pictures/FinalWebDev.png",
+            "ProjectName": "Final Website Project",
+            "ProjectDate": "December 2018",
+            "ProjectDescription": "Our final CPS530 group website project. This website consists of six pages like Home-Page(which is a demo page), Installation-Page on how to install the frameworks, Framework-Page containing info about the frameworks, Tutorial-Page of how we built the site, Contact-Page and etc..",
+            "LanguagesUsed": [
+                "HTML/CSS",
+                "JavaScript",
+                "Materialize CSS",
+                "Boostrap",
+                "Django"
+            ],
+            "ProjectLink": "https://github.com/Jenil-Vekaria/Webdev-Project-Website"
+        },
+        {
+            "ProjectImage": "assets/Pictures/MusicPlaylist.png",
+            "ProjectName": "Music Playlist System",
+            "ProjectDate": "March 2018",
+            "ProjectDescription": "A Music Playlist System where admin can selects songs which are available for the users to view it. Once the user login, list of songs will be displayed on the dashboard. They can create a playlist and add songs from the list to their playlist.",
+            "LanguagesUsed": [
+                "HTML/CSS",
+                "JavaScript",
+                "PHP",
+                "MySQL"
+            ],
+            "ProjectLink": "https://github.com/Jenil-Vekaria/MusicPlaylist"
+        },
+        {
+            "ProjectImage": "assets/Pictures/Clipboard.png",
+            "ProjectName": "Google Extension: Clipboard",
+            "ProjectDate": "March 2018",
+            "ProjectDescription": "Clipboard History Google Extension which stores your copied text and allows you to rollback any item. Some functionality includes favoriting items, download all the items into a text file, copy an item with one click and clear all items.",
+            "LanguagesUsed": [
+                "HTML/CSS",
+                "JavaScript"
+            ],
+            "ProjectLink": "https://github.com/Jenil-Vekaria/GoogleExtensions"
+        },
+        {
+            "ProjectImage": "assets/Pictures/GrocerySimulator.png",
+            "ProjectName": "Grocery Cart Simulator",
+            "ProjectDate": "April 2018",
+            "ProjectDescription": "A Grocery Cart Simulator which was built around the concept of OOP. This simulator read items from a text file and display them on the GUI. You then can add items to conveyor belt and checkout items, or read nutrition information of each item.",
+            "LanguagesUsed": [
+                "Java",
+                "JavaGUI"
+            ],
+            "ProjectLink": "https://github.com/Jenil-Vekaria"
+        },
+        {
+            "ProjectImage": "assets/Pictures/SlimeHunterMapMaker.png",
+            "ProjectName": "Slime Hunter Map Maker",
+            "ProjectDate": "March 2018",
+            "ProjectDescription": "Map Maker for the \"Slime Hunter\" game where you can create your own world and play it. This map maker allows to drag and drop varieties of items(doors, keys, tiles, slimes, stairs, etc..) on the map grid. There are over 50 items to choose from the list. ",
+            "LanguagesUsed": [
+                "Java",
+                "JavaGUI"
+            ],
+            "ProjectLink": "https://github.com/Jenil-Vekaria/JavaGame"
+        }
+    ]
 }
