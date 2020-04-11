@@ -1,25 +1,90 @@
 {
     "Languages": [
-        "devicon-java-plain-wordmark colored",
-        "devicon-python-plain-wordmark colored",
-        "devicon-javascript-plain colored",
-        "devicon-c-plain colored",
-        "devicon-mysql-plain-wordmark colored",
-        "devicon-php-plain colored",
-        "devicon-html5-plain-wordmark colored"
+        [
+            "Java",
+            "assets/Pictures/Programming Icons/Java.svg"
+        ],
+        [
+            "C",
+            "assets/Pictures/Programming Icons/C.svg"
+        ],
+        [
+            "Python",
+            "assets/Pictures/Programming Icons/Python.svg"
+        ],
+        [
+            "HTML",
+            "assets/Pictures/Programming Icons/HTML.svg"
+        ],
+        [
+            "CSS",
+            "assets/Pictures/Programming Icons/CSS.svg"
+        ],
+        [
+            "JavaScript",
+            "assets/Pictures/Programming Icons/JavaScript.svg"
+        ],
+        [
+            "Bash",
+            "assets/Pictures/Programming Icons/Bash.png"
+        ],
+        [
+            "MySQL",
+            "assets/Pictures/Programming Icons/MySQL.svg"
+        ],
+        [
+            "PHP",
+            "assets/Pictures/Programming Icons/PHP.svg"
+        ]
     ],
     "Frameworks": [
-        "devicon-angularjs-plain colored",
-        "devicon-bootstrap-plain-wordmark colored"
+        [
+            "Angular",
+            "assets/Pictures/Programming Icons/Angular.svg"
+        ],
+        [
+            "Bootstrap",
+            "assets/Pictures/Programming Icons/Bootstrap.svg"
+        ],
+        [
+            "Materialize",
+            "assets/Pictures/Programming Icons/Materialize.svg"
+        ]
     ],
     "Databases": [
-        "devicon-oracle-original colored"
+        [
+            "",
+            "assets/Pictures/Programming Icons/Oracle.svg"
+        ]
     ],
     "Tools": [
-        "devicon-git-plain-wordmark colored",
-        "devicon-linux-plain",
-        "devicon-visualstudio-plain colored",
-        "devicon-travis-plain colored",
-        "devicon-docker-plain-wordmark colored"
+        [
+            "Android Studio",
+            "assets/Pictures/Programming Icons/AndroidStudio.svg"
+        ],
+        [
+            "Git",
+            "assets/Pictures/Programming Icons/Git.svg"
+        ],
+        [
+            "Visual Studio",
+            "assets/Pictures/Programming Icons/VisualStudio.svg"
+        ],
+        [
+            "Travis CI",
+            "assets/Pictures/Programming Icons/Travis.svg"
+        ],
+        [
+            "Office",
+            "assets/Pictures/Programming Icons/Office.svg"
+        ],
+        [
+            "Firebase",
+            "assets/Pictures/Programming Icons/Firebase.svg"
+        ],
+        [
+            "Ubuntu",
+            "assets/Pictures/Programming Icons/Ubuntu.svg"
+        ]
     ]
 }
