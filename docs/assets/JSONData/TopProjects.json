@@ -1,6 +1,17 @@
 {
     "TopProjects": [
         {
+            "ProjectImage": "assets/Pictures/ToDo.png",
+            "ProjectName": "Productivity",
+            "ProjectDate": "April 2020",
+            "ProjectDescription": "Productivity is an Android App that helps you keep track of your daily tasks. You can add task entries or projects and choose badge color. Adding projects allows you to keep track of all tasks for a specific project. *Dark Theme/Light Theme Availability*",
+            "LanguagesUsed": [
+                "Java",
+                "Android Studio"
+            ],
+            "Link": "https://github.com/Jenil-Vekaria/Todo-Android-App"
+        },
+        {
             "ProjectImage": "assets/Pictures/CarRental.png",
             "ProjectName": "Car Rental App",
             "ProjectDate": "December 2019",
